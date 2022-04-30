@@ -61,7 +61,7 @@ const Navbar = () => {
           <header>
               <div className='container flex_space'>
                   <div className='logo'>
-                      <img src='/images/logo.gif' alt='logo' />
+                      <img src='./images/logo.gif' alt='logo' />
                       <div className='logo-text'>
                         <Link to="/home">
                             <span>Thiên Bình</span>
